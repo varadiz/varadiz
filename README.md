@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![varadiz's GitHub stats](https://github-readme-stats-pi-nine-57.vercel.app/api?username=varadiz)](https://github.com/varadiz/github-readme-stats)
+[![varadiz's GitHub stats](github-readme-stats-varadiz.vercel.app/api?username=varadiz)](https://github.com/varadiz/github-readme-stats)
 
 
 <!--

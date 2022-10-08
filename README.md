@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![varadiz's GitHub stats](https://vercel.com/varadiz/github-readme-stats/DekeSvWNdFpfZ6P2YvjwbQ7vu7An/api?username=varadiz)](https://github.com/varadiz/github-readme-stats)
+
 <!--
 **varadiz/varadiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

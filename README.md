@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![varadiz's GitHub stats](https://github-readme-stats-varadiz.vercel.app/api?username=varadiz&show_icons=true&theme=radical&)](https://github.com/varadiz/github-readme-stats)
+[![varadiz's GitHub stats](https://github-readme-stats-varadiz.vercel.app/api?username=varadiz&show_icons=true&theme=gradient)](https://github.com/varadiz/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-varadiz.vercel.app/api/top-langs/?username=varadiz)](https://github.com/varadiz/github-readme-stats)
+[![Top Langs](https://github-readme-stats-varadiz.vercel.app/api/top-langs/?username=varadiz&theme=gradient)](https://github.com/varadiz/github-readme-stats)
 
 
 <!--
